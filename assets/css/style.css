@@ -95,6 +95,17 @@ a {
 	left: 750px;
 	top: -415px;
 }
+
+#contactmecontact {
+	width: 270px;
+	height: 200px;
+	border: solid 1px grey;
+	float: left;
+	background-color: white;
+	position: relative;
+	left: 750px;
+	top: -520px;
+}
  #pagecontent {
  	float: left;
  	height: 100%;
@@ -140,8 +151,37 @@ a {
 	margin-right: -10px;
 }
 
+.long {
+	width: 100%;
+	height: 20px;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: 2px;
+}
 
+form {
+	color: grey;
+	font-size: 18px;
+	margin-top: 5px;
+	font-weight: lighter;
+}
 
+.longwide {
+	width: 100%;
+	height: 200px;
+	margin-top: 2px;
+}
+
+#submit {
+	color: white;
+	background-color: #3FAAA5;
+	height: 50px;
+	width: 120px;
+	border: none;
+	font-size: 20px;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
 
 
 
