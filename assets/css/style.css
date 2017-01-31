@@ -49,12 +49,13 @@ a {
 }
 
 #aboutme {
-	width: 650px;
+	width: 630px;
 	height: 100;
 	background-color: white;
 	float: left;
 	margin: 130px 20px 20px 55px;
 	border: solid 1px #808080;
+	padding-bottom: 20px;
 
 
 }
@@ -66,7 +67,7 @@ a {
 
 #paragraph {
 	height: 100%;
-	width: 560px;
+	width: 570px;
 	padding: 5px 0px;
 	margin-left: 30px;
 	text-align: wrap;
@@ -92,8 +93,8 @@ a {
 	float: left;
 	background-color: white;
 	position: relative;
-	left: 750px;
-	top: -415px;
+	left: 740px;
+	top: -435px;
 }
 
 #contactmecontact {
@@ -103,8 +104,8 @@ a {
 	float: left;
 	background-color: white;
 	position: relative;
-	left: 750px;
-	top: -520px;
+	left: 740px;
+	top: -540px;
 }
 
 #contactmeport {
@@ -114,14 +115,15 @@ a {
 	float: left;
 	background-color: white;
 	position: relative;
-	left: -200px;
-	top: 130px;
+	left: -210px;
+	top: 131px;
 }
  #pagecontent {
  	float: left;
  	height: 100%;
- 	width: 960px;
+ 	width: 950px;
  	margin-bottom: 150px;
+ 	padding-right: -10px;
 	
  }
 
@@ -152,16 +154,14 @@ a {
 	color: #E9E9E9;
 	background-color: #666666;
 	border-top: solid 10px #3FAAA5;
-	height: 40px;
+	height: 60px;
 	width: 100%;
 	letter-spacing: 1px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 8px;
+	font-size: 12px;
 	text-align: center;
 	padding-top: 20px;
-	margin-left: -10px;
-	margin-right: -100px;
-	margin-bottom: -10px;
+
 	position: fixed;
    	left:0px;
    	bottom:0px;
@@ -206,7 +206,7 @@ form {
 }
 
 .leftmargin {
-	margin-left: 26px;
+	margin-left: 35px;
 	height: 200px;
 	float: left;
 	margin-top: 26px;
