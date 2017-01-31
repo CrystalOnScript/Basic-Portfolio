@@ -111,15 +111,15 @@ a {
 	top: -540px;
 }
 
-#contactmeport {
+.contactme {
 	width: 270px;
 	height: 200px;
 	border: solid 1px grey;
 	float: left;
 	background-color: white;
-	position: relative;
-	left: -210px;
-	top: 131px;
+	position: absolute;
+	left: 750px;
+	top: 138px;
 }
  #pagecontent {
  	float: left;
