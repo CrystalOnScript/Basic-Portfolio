@@ -114,13 +114,14 @@ a {
 	float: left;
 	background-color: white;
 	position: relative;
-	left: 750px;
-	top: -812px;
+	left: -200px;
+	top: 130px;
 }
  #pagecontent {
  	float: left;
  	height: 100%;
  	width: 960px;
+ 	margin-bottom: 150px;
 	
  }
 
@@ -159,7 +160,11 @@ a {
 	text-align: center;
 	padding-top: 20px;
 	margin-left: -10px;
-	margin-right: -10px;
+	margin-right: -100px;
+	margin-bottom: -10px;
+	position: fixed;
+   	left:0px;
+   	bottom:0px;
 }
 
 .long {
