@@ -25,11 +25,11 @@ h1 {
 }
 
 #myname {
-	height: 90px;
+	height: 65px;
 	width: 240px;
 	background-color: #3FAAA5;
 	color: white;
-	padding-top: 10px; 
+	padding-top: 35px; 
 	margin-bottom: 0px;
 	position: relative;
 	top: 0px;
@@ -75,7 +75,7 @@ a {
 	margin-left: 30px;
 	text-align: wrap;
 	float: left;
-	line-height: 15px;
+	line-height: 12px;
 	border-top: solid 5px grey;
 	letter-spacing: 2px;
 	font-size: 12px;
@@ -99,7 +99,9 @@ a {
 #placeHolderImg {
 	height: 180px;
 	float: left;
-	border-right: solid 20px white;
+	border: solid 10px white;
+	margin-left: -10px;
+	margin-right: 5px;
 
 }
 
