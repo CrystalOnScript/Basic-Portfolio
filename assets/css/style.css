@@ -79,11 +79,16 @@ a {
 	padding-top: 10px;
 	text-align: wrap;
 	float: left;
-	line-height: 20px;
 	border-top: solid 2px grey;
+
+}
+
+p {
+	line-height: 20px;
 	color: grey;
 	font-size: 16px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
 }
 
 #paragraphport {
